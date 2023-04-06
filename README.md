@@ -6,9 +6,6 @@
 > database is chosen (file storage or database storage), JSON is used or
 > MySQL and SQLalchemy is used via Python. Fabric is used for application deployment.
 
-
-## Features
-
 ### Command Interpreter
 
 #### Description
